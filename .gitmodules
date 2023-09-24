@@ -1,0 +1,6 @@
+[submodule "pedestal-backend-2"]
+	path = pedestal-backend-2
+	url = git@github.com:gdg4dev/pedestal-backend.git
+[submodule "pedestal-frontend-2"]
+	path = pedestal-frontend-2
+	url = git@github.com:tanishqsh/pedestal-frontend.git
